@@ -1,5 +1,6 @@
 # aseprite-builder
 Build Aseprite using Github action
+let's go
 
 # What should you do?
 - fork this repo
